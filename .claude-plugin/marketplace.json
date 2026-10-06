@@ -1,0 +1,12 @@
+{
+  "name": "claude-mods",
+  "description": "Mods propios para Claude Code",
+  "owner": { "name": "alejoaguilarg" },
+  "plugins": [
+    {
+      "name": "tablero-consumo",
+      "source": "./plugins/tablero-consumo",
+      "description": "Panel /consumo con tokens, uso del plan, contexto, herramientas y tiempo de sesión"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "tablero-consumo",
+  "version": "0.1.0",
+  "description": "Panel /consumo: tokens por pedido, uso del plan, contexto, herramientas y tiempo de sesión",
+  "author": { "name": "alejoaguilarg" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
